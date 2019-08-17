@@ -1,0 +1,14 @@
+C:\Users\Jalal\source\repos\PriceAPI\bin\Debug\netcoreapp2.1\PriceAPI.deps.json
+C:\Users\Jalal\source\repos\PriceAPI\bin\Debug\netcoreapp2.1\PriceAPI.runtimeconfig.json
+C:\Users\Jalal\source\repos\PriceAPI\bin\Debug\netcoreapp2.1\PriceAPI.runtimeconfig.dev.json
+C:\Users\Jalal\source\repos\PriceAPI\bin\Debug\netcoreapp2.1\PriceAPI.dll
+C:\Users\Jalal\source\repos\PriceAPI\bin\Debug\netcoreapp2.1\PriceAPI.pdb
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.csprojAssemblyReference.cache
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.RazorAssemblyInfo.cache
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.RazorAssemblyInfo.cs
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.AssemblyInfoInputs.cache
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.AssemblyInfo.cs
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.dll
+C:\Users\Jalal\source\repos\PriceAPI\obj\Debug\netcoreapp2.1\PriceAPI.pdb

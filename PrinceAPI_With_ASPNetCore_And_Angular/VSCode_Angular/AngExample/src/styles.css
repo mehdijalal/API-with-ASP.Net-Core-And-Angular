@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+.ChangeHover{
+    color:#ecec3c!important;
+}
+.ChangeHover:hover{
+    color:#ff0000!important;
+    cursor: pointer;
+}
+.HideMe{
+    display: none;
+}
+.space-5x{
+    margin-right: 5px;
+    min-width: 180px;
+}
+input.ng-touched.ng-invalid{
+    border-color: #dc3545;
+}
+input.ng-valid{
+    border-color: greenyellow;
+}
+.green-icon{
+    color: greenyellow;
+}
+.red-icon{
+    color: #dc3545;
+}
